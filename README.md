@@ -1,6 +1,6 @@
-# Speech and Noise Signal-to-Noise Ratio (SNR) Adjuster
+# Speech and Noise Signal-to-Noise Ratio (SNR)
 
-The **Speech and Noise SNR Adjuster** is a Python script that generates audio files with different Signal-to-Noise Ratio (SNR) levels by combining speech and noise audio. It calculates the adjusted noise level based on the desired SNR and mixes it with speech to create audio with the specified SNR.
+The **Speech and Noise SNR** is a Python script that generates audio files with different Signal-to-Noise Ratio (SNR) levels by combining speech and noise audio. It calculates the adjusted noise level based on the desired SNR and mixes it with speech to create audio with the specified SNR.
 
 ## Features
 
